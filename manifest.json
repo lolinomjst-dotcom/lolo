@@ -1,6 +1,6 @@
 {
   "name": "MisVehiculos",
-  "short_name": "MisVehiculos2",
+  "short_name": "MisVehiculos",
   "start_url": "/lolo/",
   "display": "standalone",
   "background_color": "#FDD835",
